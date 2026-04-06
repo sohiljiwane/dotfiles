@@ -53,3 +53,7 @@ The configuration includes multiple colorschemes, with [TokyoNight](https://gith
    ln -s ~/dotfiles/nvim ~/.config/nvim
    ```
 3. Open Neovim, and `lazy.nvim` will automatically install the plugins.
+
+## License
+
+This project is licensed under the [Unlicense](UNLICENSE) - see the `UNLICENSE` file for details.
