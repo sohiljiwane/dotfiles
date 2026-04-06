@@ -1,0 +1,4 @@
+# Ignore undo/swap files
+*.swp
+*.swo
+undo/
