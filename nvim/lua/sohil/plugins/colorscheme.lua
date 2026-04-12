@@ -33,7 +33,7 @@ return {
           colors.fg_sidebar = fg
         end,
       })
-      vim.cmd([[colorscheme tokyonight]])
+      -- vim.cmd([[colorscheme tokyonight]])
     end,
   },
   {
@@ -71,6 +71,21 @@ return {
         theme = "onedark_dark",
       })
       -- vim.cmd([[colorscheme onedark_dark]])
+    end,
+  },
+  {
+    "dasupradyumna/midnight.nvim",
+    lazy = false,
+    config = function()
+      -- vim.cmd([[colorscheme midnight]])
+    end,
+  },
+  {
+    "bluz71/vim-moonfly-colors",
+    name = "moonfly",
+    lazy = false,
+    config = function()
+      vim.cmd([[colorscheme moonfly]])
     end,
   },
 }

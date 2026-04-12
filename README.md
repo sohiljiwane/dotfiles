@@ -31,10 +31,12 @@ This Neovim configuration is modular and uses [lazy.nvim](https://github.com/fol
 
 The configuration includes multiple colorschemes, with [TokyoNight](https://github.com/folke/tokyonight.nvim) (night style) as the default:
 
-- `tokyonight` (Active)
+- `tokyonight`
 - `catppuccin`
 - `kanagawa`
 - `onedark_dark`
+- `midnight`
+- `moonfly` (Active)
 
 ### Prerequisites
 
